@@ -7,6 +7,7 @@
 - font: JetBrainsMono Nerd Font
 - shell: zsh (theme: powerlevel10k)
 - terminal: kitty
+- text editor: nvim with catppuccin theme.
 - fetch: neofetch
 - clock: tty-clock
 - bar: polybar
