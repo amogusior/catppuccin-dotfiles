@@ -4,8 +4,12 @@
 ### list of software on the screenshot:
 - distro: arch
 - wm: bspwm
+- font: JetBrainsMono Nerd Font
 - shell: zsh (theme: powerlevel10k)
 - terminal: kitty
 - fetch: neofetch
 - clock: tty-clock
 - bar: polybar
+- program launcher: rofi
+- compositor: picom
+- screenshot tool: flameshot
