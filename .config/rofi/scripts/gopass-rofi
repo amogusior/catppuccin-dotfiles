@@ -1,0 +1,3 @@
+#!/bin/bash
+
+gopass ls --flat | rofi -config ~/.config/rofi/default.rasi -dmenu -p gopass | xargs --no-run-if-empty gopass show -o | head -n 1 | xclip -sensitive -selection clipboard
