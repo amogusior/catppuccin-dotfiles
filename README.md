@@ -4,7 +4,7 @@
 ### list of software on the screenshot:
 - distro: arch
 - wm: bspwm
-- shell: zsh
+- shell: zsh (theme: powerlevel10k)
 - terminal: kitty
 - fetch: neofetch
 - clock: tty-clock
