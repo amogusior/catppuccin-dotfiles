@@ -1,5 +1,8 @@
 ![unknown](https://user-images.githubusercontent.com/56086445/156930079-1ca864f9-2dc3-491b-82ab-a99a54e7230e.png)
-# i dont think i will post any new version or more files cuz i accidientally formatted my linux drive.
+# WARNING
+# THIS REPO IS NO LONGER SUPPORTED, THESE DOTFILES ARE REALLY OLD AND I CANT HELP YOU WITH THEM.
+# CHECK OUT MY NEW DOTFILES REPO.
+
 # dotfiles!
 ### hi, here are my dotfiles for Arch Linux!
 ### list of software on the screenshot:
